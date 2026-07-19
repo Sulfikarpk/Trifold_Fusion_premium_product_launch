@@ -12,7 +12,11 @@ This project was fully developed by me, including hardware integration, embedded
 
 ## 📸 Project Images
 
-> Add project images here.
+![final Image](https://github.com/Sulfikarpk/Trifold_Fusion_premium_product_launch/blob/main/trifold_image.jpeg)
+
+![setup_image1](https://github.com/Sulfikarpk/Trifold_Fusion_premium_product_launch/blob/main/trifold_setup%20Image1%20.jpeg)
+
+![setup_image2](https://github.com/Sulfikarpk/Trifold_Fusion_premium_product_launch/blob/main/trifold_setup_image2.jpeg)
 
 ---
 
