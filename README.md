@@ -1,10 +1,12 @@
 # 🎥 Interactive Trifold Rotating LED Display
 
-## 📌 Project Overview
+## 📌  Project Description
 
-The Interactive Trifold Rotating LED Display is a large-scale automated launching system designed for exhibitions, corporate events, and product unveilings. The setup consists of three synchronized rotating LED display panels that create an immersive visual experience before revealing the product placed inside.
-
-This project was completely designed, developed, programmed, and commissioned by me, including the hardware integration, motion control, embedded programming, synchronization, testing, and onsite installation.
+The Interactive Trifold Rotating LED Display is an automated product launching system designed for exhibitions, corporate events, and brand activations.
+The system features a circular interactive podium positioned in front of three large rotating LED display panels. When a visitor places their hand inside the circular podium, a TFMini LiDAR sensor detects the presence of the object and triggers the activation sequence. An addressable LED strip integrated into the podium lights up and creates an animated lighting effect that visually guides the interaction toward the main display.
+The trigger signal is transmitted from the sensor controller to the main control system using RS485 communication over a LAN connection. At the receiving end, an ESP32 processes the incoming data and initiates the complete activation sequence.
+Once activated, the three synchronized rotating LED display panels perform a programmed motion sequence, creating an immersive visual experience and revealing the product positioned at the center. The entire system combines real-time sensor detection, reliable industrial communication, embedded firmware, synchronized motor control, and interactive lighting to deliver an engaging product launch experience.
+This project was fully developed by me, including hardware integration, embedded firmware development, sensor interfacing, RS485 communication, ESP32 programming, motion control, LED animation, system synchronization, testing, and onsite commissioning.
 
 ---
 
