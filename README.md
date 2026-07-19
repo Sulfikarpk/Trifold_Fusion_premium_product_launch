@@ -24,10 +24,11 @@ This project was fully developed by me, including hardware integration, embedded
 
 ## 🎥 Demo Video
 
+testing 1 https://youtu.be/v5Cx8qTcs0I
+
+testing 2 https://youtu.be/O619rlIGHH8
+
 vedio final out https://youtube.com/shorts/0E0ItVW11O8?feature=share
-
-
-Or upload the video to YouTube and add the link.
 
 ---
 
@@ -49,6 +50,7 @@ Or upload the video to YouTube and add the link.
 ## 🛠 Hardware Used
 
 - Industrial LED Display Panels
+- RS485
 - High Torque Servo Motors
 - Motor Drivers
 - Embedded Controller
@@ -113,21 +115,6 @@ Or upload the video to YouTube and add the link.
 
 ---
 
-## 📂 Project Structure
-
-```
-Trifold-Rotating-Display/
-│
-├── README.md
-├── Images/
-├── Videos/
-├── Firmware/
-├── Hardware/
-└── Documentation/
-```
-
----
-
 ## 📈 Project Highlights
 
 - Interactive Launching System
@@ -139,7 +126,3 @@ Trifold-Rotating-Display/
 - Custom Automation Solution
 
 ---
-
-## 📄 License
-
-This project is intended for portfolio and demonstration purposes.
