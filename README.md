@@ -14,6 +14,10 @@ This project was completely designed, developed, programmed, and commissioned by
 
 ---
 
+## 📸 Project Hardware Image
+
+---
+
 ## 🎥 Demo Video
 
 > Add your project demonstration video here.
