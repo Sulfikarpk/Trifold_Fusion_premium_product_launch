@@ -16,7 +16,7 @@ This project was completely designed, developed, programmed, and commissioned by
 
 ## 📸 Project Hardware Image
 
-
+![Hardware for the triggering](https://github.com/Sulfikarpk/Trifold_Fusion_premium_product_launch/blob/main/trifold_activation_hardware.jpeg)
 
 ---
 
